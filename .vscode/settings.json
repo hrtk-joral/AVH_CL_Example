@@ -8,5 +8,10 @@
                 "debug": "Arm Debugger FVP"
             }
         }
+    ],
+    "debug.hideSlowPreLaunchWarning": true,
+    "debug.showInStatusBar": "never",
+    "clangd.arguments": [
+        "--compile-commands-dir=d:\\Hrutik\\AVH CI\\AVH_CL_Example\\out\\Project\\avh\\debug"
     ]
 }
